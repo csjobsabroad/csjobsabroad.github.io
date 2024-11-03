@@ -2,7 +2,7 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "https://csjobsinabroad.github.io"
+baseURL = "https://csjobsabroad.github.io"
 title = "CS Jobs In Abroad"
 enableRobotsTXT = true
 enableEmoji = true
@@ -153,7 +153,7 @@ defaultContentLanguage = "en"           # Default language to use
     d-facebook = "https://www.facebook.com/groups/341792923732960"
     #e-linkedin = "http://localhost:1313"
     #f-google = "http://localhost:1313"
-    g-github = "https://github.com/csjobsinabroad"
+    g-github = "https://github.com/csjobsabroad"
     #h-weibo = "http://localhost:1313"
     #i-zhihu = "http://localhost:1313"
     #j-douban = "http://localhost:1313"
